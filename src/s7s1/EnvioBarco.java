@@ -12,7 +12,7 @@ public class EnvioBarco implements TipoEnvio{
 
     @Override
     public double calcular(double peso) {
-        return 25+peso*3;
+        return 25+peso*17;
     }
     
 }
